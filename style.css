@@ -1,0 +1,19 @@
+td {
+  border: 1px solid black;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+td.clicked {
+  background-color: #ddd;
+}
+
+td.mine {
+  background-color: red;
+}
+
+td.flag {
+  background-color: yellow;
+}
